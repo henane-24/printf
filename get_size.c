@@ -1,3 +1,8 @@
+/**
+ * Auth: @Henok and Tony
+ * File: get_size.c
+ */
+
 #include "main.h"
 
 /**
