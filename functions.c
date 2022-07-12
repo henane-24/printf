@@ -1,3 +1,8 @@
+/**
+ * Auth: @Henok and Tony
+ * File: functions.c
+ */
+
 #include "main.h"
 
 /************************* PRINT CHAR *************************/

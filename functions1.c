@@ -1,3 +1,8 @@
+/**
+ * Auth: @Henok and Tony
+ * File: functions1.c
+ */
+
 #include "main.h"
 
 /************************* PRINT UNSIGNED NUMBER *************************/

@@ -1,3 +1,8 @@
+/**
+ * Auth: @Henok and Tony
+ * File: functions2.c
+ */
+
 #include "main.h"
 
 /****************** PRINT POINTER ******************/
