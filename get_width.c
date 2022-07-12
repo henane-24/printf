@@ -1,3 +1,8 @@
+/**
+ * Auth: @Henok and Tony
+ * File: get_width.c
+ */
+
 #include "main.h"
 
 /**

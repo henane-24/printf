@@ -1,3 +1,8 @@
+/**
+ * Auth: @Henok and Tony
+ * File: main.h
+ */
+
 #ifndef MAIN_H
 #define MAIN_H
 #include <stdarg.h>
